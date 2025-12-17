@@ -1,6 +1,6 @@
 # Looker_Dashboard_Visualization
 
-This mock project demonstrates an end-to-end data workflow where data is collected through Jotform, stored and cleaned in Google Sheets, and visualized using Looker dashboards. The project emphasizes data accuracy, automation, and clear reporting.
+This mock project demonstrates an end-to-end data workflow where data is collected through Jotform, stored and cleaned in Google Sheets, and visualized using Looker dashboards. The project emphasizes data accuracy, automation, and clear reporting. ( On project website, hover looker screen then toggle fullscreen for better viweing)
 
 Architecture & Workflow
 
